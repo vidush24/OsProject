@@ -46,6 +46,7 @@ for(i=0;i<n;i++)
 printf("\n%d \t\t %d \t\t %d \t\t %d \t\t %d ",p[i],su[i],bt[i],wt[i],tat[i]);
 printf("\nAverage Waiting Time is --- %f",wtavg/n);
 printf("\nAverage Turnaround Time is --- %f",tatavg/n);
+	printf("\n");
 getch();
 }
 
