@@ -48,6 +48,7 @@ printf("\nAverage Waiting Time is --- %f",wtavg/n);
 printf("\nAverage Turnaround Time is --- %f",tatavg/n);
 printf("\n");
 printf("\n");
+
 getch();
 }
 
